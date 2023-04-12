@@ -7,3 +7,5 @@ git clean -fd ==> removes all untracked files from git..
 git checkout . [path] . removes changes made to working tree..
 
 git reset . path ===> remove changes made to staging area only..
+
+git diff ===> what is changed but not staged..
