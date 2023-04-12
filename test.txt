@@ -1,1 +1,9 @@
 This is Testing for new Repo..
+
+git  reset --hard [removes changes from staging & working tree -modified only]
+
+git clean -fd ==> removes all untracked files from git..
+
+git checkout . [path] . removes changes made to working tree..
+
+git reset . path ===> remove changes made to staging area only..
