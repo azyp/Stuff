@@ -9,3 +9,9 @@ git checkout . [path] . removes changes made to working tree..
 git reset . path ===> remove changes made to staging area only..
 
 git diff ===> what is changed but not staged..
+
+git pull origin main ====>Pulling
+
+git remote add origin <remote-repository-url>, where <remote-repository-url>   [Connecting to remote repository]
+
+git push -u origin main  [after connecting to remote repo push local repo to Github]
